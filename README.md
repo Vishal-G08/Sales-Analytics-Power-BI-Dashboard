@@ -37,5 +37,4 @@ Refer to the attached visuals above:
 - Inspect DAX measures to view KPI logic.
 
 ### Dashboard Overview:
-![Project dashboard](Dashboard Screenshot 1.png)
-
+![Image 1](Dashboard_Screenshot_1.png)
