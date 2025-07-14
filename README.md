@@ -36,3 +36,6 @@ Refer to the attached visuals above:
 - Use slicers to filter the data.
 - Inspect DAX measures to view KPI logic.
 
+### Dashboard Overview:
+![Project dashboard](Dashboard Screenshot 1.png)
+
