@@ -31,4 +31,8 @@ Refer to the attached visuals above:
 - Maintain LBS efficiency: Continue monitoring LBS levels monthly; investigate fluctuations during peak shipment periods. Monitor box volume trends to reduce LBS across regions and enhance supply chain efficiency.
 - Coach underperforming salespersons: Use the salesperson performance table to identify salesperson below profit and LBS benchmarks, offer targeted training support.
 
+#To explore the project:
+- Open the .pbix file in Power BI Desktop.
+- Use slicers to filter the data.
+- Inspect DAX measures to view KPI logic.
 
